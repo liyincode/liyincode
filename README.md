@@ -34,7 +34,7 @@
 
 🧩 Open Source Contributions
 - [Rsbuild](https://github.com/web-infra-dev/rsbuild) — Vue 3 JSX HMR & dev server improvements
-- [Gmonad.cc](https://github.com/gmonad-cc/gmonad.cc) — Community platform contributions
+- [gmonad.cc](https://github.com/monad-cn/gmonad.cc) — Community platform contributions
 
 
 ⭐️ *“Done is better than perfect.”*
