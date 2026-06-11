@@ -1,38 +1,31 @@
 👋 Hi, I’m Young
 
-🔥 My philosophy: Stay young, stay passionate.
+Full-stack developer — TypeScript & Node.js. Into frontend tooling: HMR, SSR, and build systems.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/VSCodeVim/Vim/master/images/icon.png" alt="vscodevim" /></code>
-
----
-🔧 Featured Projects
-
-- **[react-custom-ssr](https://github.com/liyincode/react-custom-ssr)**  
-  Custom React SSR solution supporting streaming, HMR, and code splitting.
-
-- **[babel-plugin-vue-jsx-hmr](https://github.com/liyincode/babel-plugin-vue-jsx-hmr)**  
-  A Babel plugin enabling Vue 3 JSX HMR support.
-
-- **[im-switcher](https://github.com/liyincode/im-switcher)**  
-  VSCode extension that automatically switches input method when using Vim.
-
-- **[design-verse](https://github.com/liyincode/design-verse)**  
-  A gallery of web-style prompts for AI design inspiration.
-
-- **[binance-spot-history](https://github.com/liyincode/binance-spot-history)**  
-  Fetch Binance spot historical data easily via CLI.
+TypeScript · Node.js · Vue · React
 
 ---
 
-🧩 Open Source Contributions
-- [Rsbuild](https://github.com/web-infra-dev/rsbuild) — Vue 3 JSX HMR & dev server improvements
-- [gmonad.cc](https://github.com/monad-cn/gmonad.cc) — Community platform contributions
+🧩 Open Source
 
+- **[Rsbuild](https://github.com/web-infra-dev/rsbuild)** — the Rspack-based build tool
+  - [feat: support for Vue 3 JSX HMR](https://github.com/web-infra-dev/rsbuild/pull/2018)
+  - [feat: support `dev.watchFiles` config](https://github.com/web-infra-dev/rsbuild/pull/2145)
+  - [feat: support watch publicDir in dev](https://github.com/web-infra-dev/rsbuild/pull/2174)
+  - [feat: keep HMR working when liveReload is disabled](https://github.com/web-infra-dev/rsbuild/pull/2205)
+- **[Ant Design Vue](https://github.com/vueComponent/ant-design-vue)** — contributed to the Vue Vapor rewrite: reviewed and fixed the Switch and Result components for controlled-mode semantics, legacy API compatibility, and a11y ([#8502](https://github.com/vueComponent/ant-design-vue/pull/8502), [#8522](https://github.com/vueComponent/ant-design-vue/pull/8522))
+- **[OpenClash](https://github.com/vernesong/OpenClash)** — fixed a YAML generation bug when `short-id` is empty ([#5030](https://github.com/vernesong/OpenClash/pull/5030))
+- **[gmonad.cc](https://github.com/monad-cn/gmonad.cc)** — 20+ merged PRs: features, fixes, and docs for the Monad Chinese community platform
 
-⭐️ *“Done is better than perfect.”*
+---
+
+🔧 Projects
+
+- **[babel-plugin-vue-jsx-hmr](https://github.com/liyincode/babel-plugin-vue-jsx-hmr)** — Babel plugin enabling Vue 3 JSX HMR; the groundwork behind my Rsbuild contribution.
+- **[react-custom-ssr](https://github.com/liyincode/react-custom-ssr)** — React SSR built from scratch: streaming rendering, code splitting, and HMR.
+- **[im-switcher](https://github.com/liyincode/im-switcher)** — VSCode extension that auto-switches input method when the window gains focus, for Vim users.
+- **[x-likes-search](https://github.com/liyincode/x-likes-search)** — Chrome extension to search your X (Twitter) likes locally.
+
+---
+
+📫 liyincode@gmail.com
