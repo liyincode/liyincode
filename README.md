@@ -1,6 +1,6 @@
 ## Hi, I'm Young
 
-Exploring ideas through code.
+With AI, anything is possible.
 
 ### Projects
 
