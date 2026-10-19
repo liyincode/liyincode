@@ -10,8 +10,6 @@ With AI, anything is possible.
 
 ### Open source
 
-- [Rsbuild](https://github.com/web-infra-dev/rsbuild) — Vue JSX HMR and file-watching features.
-- [Ant Design Vue](https://github.com/vueComponent/ant-design-vue) — Component behavior and compatibility fixes.
-- [Monad Chinese Community](https://github.com/monad-cn/gmonad.cc) — Platform features and developer documentation.
+Contributed to [Rsbuild](https://github.com/web-infra-dev/rsbuild), [Ant Design Vue](https://github.com/vueComponent/ant-design-vue), and [Monad Chinese Community](https://github.com/monad-cn/gmonad.cc).
 
 [Email](mailto:liyincode@gmail.com)
